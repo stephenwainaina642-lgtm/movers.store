@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cleanwatermovers.shop/sitemap.xml
+Sitemap: https://www.cleanwatermovers.shop/sitemap.xml

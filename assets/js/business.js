@@ -13,7 +13,7 @@ const BUSINESS = {
   email: "njugunagodffrey@gmail.com",
   location: "Githunguri, Kiambu County, Kenya",
   yearsInOperation: "10",
-  siteUrl: "https://cleanwatermovers.shop",
+  siteUrl: "https://www.cleanwatermovers.shop",
 };
 
 /* Base WhatsApp message templates per service. A location can be
