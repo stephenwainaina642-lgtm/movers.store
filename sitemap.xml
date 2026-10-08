@@ -1,94 +1,125 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://movers.fit/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/moving/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.95</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/house-moving-nairobi/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/office-moving-nairobi/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/goods-transport-nairobi/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://movers.fit/furniture-moving/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://movers.fit/relocation-services/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/transport/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/water-delivery/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/water-delivery-nairobi/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/water-delivery-kiambu/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/water-delivery-ruiru/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/water-delivery-kikuyu/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/water-delivery-limuru/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/areas-we-serve/</loc>
     <lastmod>2026-10-07</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://movers.fit/contact/</loc>
-    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://movers.fit/about-us/</loc>
     <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://movers.fit/contact/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
 </urlset>
+```
